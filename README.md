@@ -9,19 +9,18 @@ GitHub is the home for all developers—a platform where you can share code, con
 
 As **a learner**, you can participate in the study group by completing the following steps:
 
-- Register for the Cloud Skills Challenge [here]([#](https://github.com/cyz/october-github/edit/main/README.md))
-- Join our Discussion Forum [here](https://github.com/cyz/october-github/edit/main/README.md) and introduce yourself and share your learning experience with the community
+- Register for the [Cloud Skills Challenge](#)
+- Join our [Discussion Forum](#) and introduce yourself and share your learning experience with the community
 - Learn with our training and earn a certificate to share on your LinkedIn
-- Complete the Cloud Skills Challenge and request your badge [here](https://github.com/cyz/october-github/edit/main/README.md)
+- Complete the Cloud Skills Challenge and request your badge [here](#)
 
 As **a community leader**, you can bring this study group to your community by hosting a meetup or a workshop!
 
-- If you want to organize an activity, send a PR to this repository adding your event to the [Community Events](https://github.com/cyz/october-github/edit/main/README.md) section below
-- Check out our [resources](#) to help you organize your event
+- If you want to organize an activity, send a PR to this repository adding your event to the [Community Events](#) section below
+- Check out our [community resources](/community) to help you organize your event
 
 ## Community Events
 
-| Date | Name | Community | Location | Link |
-|------|------|-----------|----------|------|
-|      |      |           |          |      |
-
+| Date | Name | Community | Location | Language | Link |
+|------|------|-----------|----------|------|------|
+|      |      |           |          |      |      |
