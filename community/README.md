@@ -14,4 +14,4 @@ Organizing an event is always an adventure, and to assist you, we have created a
 | **[Event Checklist](checklist.md)**      | A quick guide for community leaders, with tips on speakers, promotion, and more. |
 | **Code of Conduct**   | A CoC is important to ensure that all participants feel safe and comfortable during the event. Be inspired by the [Reactor Code of Conduct](https://developer.microsoft.com/reactor/CodeOfConduct/).       |
 | **[Creative](Creative)**   | Assets for promotion on social media, YouTube and Meetup.      |
-| **Content**   | <ul> <li>1</li><li>2</li><li>3</li>    |
+| **Content**   | [Microsoft Learn Collection](https://learn.microsoft.com/en-us/users/cynthiazanoni/collections/n5woh2djkdr75w)    |
