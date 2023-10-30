@@ -24,7 +24,7 @@ The GitHub Universe Cloud Skills Challenge is a 30-day learning journey on Micro
 
 ### Promote the GitHub Universe Cloud Skills Challenge
 
-Check out our [social media resources](/csc-promotion) to promote the challenge 🎉
+Check out our [social media banners](/csc-promotion) to promote the challenge 🎉
 
 
 ### Visit the Articles:
