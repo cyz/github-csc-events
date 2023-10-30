@@ -5,6 +5,8 @@
 
 GitHub is the home for all developers—a platform where you can share code, contribute to open source projects and much more. Join our special study group and explore GitHub with us! 🐱
 
+![GitHub](hero-video.jpg)
+
 ## Host a session with your community to explore the exciting GitHub Universe Cloud Skills Challenge
 
 The GitHub Universe Cloud Skills Challenge is a 30-day learning journey on Microsoft Learn. It's a free, engaging, community-driven program designed to help you master GitHub, Codespaces, and GitHub Copilot. You'll learn how to set up your cloud-based development environment with Codespaces and create real-world projects with GitHub Copilot, just in time for GitHub Universe!
@@ -19,3 +21,11 @@ The GitHub Universe Cloud Skills Challenge is a 30-day learning journey on Micro
   - Location
   - Language
   - Registration Link
+
+### Visit the Articles:
+
+| Post | Language |
+|------|------|
+| [Announcing GitHub Universe Cloud Skills Challenge!](https://aka.ms/GitHubUniverseChallenge)     | English     |
+| [Participe do GitHub Universe Cloud Skills Challenge](https://aka.ms/github/brasil)     | Portuguese     |
+| [¡Regístrate al GitHub Universe Cloud Skills Challenge!](https://techcommunity.microsoft.com/t5/educator-developer-blog/reg%C3%ADstrate-al-github-universe-cloud-skills-challenge/ba-p/3951236?WT.mc_id=academic-109612-abrilu)    | Spanish     |
